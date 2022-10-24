@@ -1,0 +1,2 @@
+1. The initialization was of two string data types in 'num1' and 'num2'. Adding them together was actually a concatenation and result also become a string data type.
+2. I fixed it by converting the data types of 'num1' and 'num2' to numbers using Number().
